@@ -1,0 +1,15 @@
+{
+	"schemaVersion": 1,
+	"id": "brewhouse-test",
+	"version": "1.0.0",
+	"name": "Brewhouse Tests",
+	"environment": "*",
+	"entrypoints": {
+		"fabric-gametest": [
+			"ie.semyon.brewhouse.test.BrewhouseGameTests"
+		]
+	},
+	"depends": {
+		"brewhouse": "*"
+	}
+}

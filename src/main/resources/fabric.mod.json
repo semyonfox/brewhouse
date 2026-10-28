@@ -1,0 +1,30 @@
+{
+	"schemaVersion": 1,
+	"id": "brewhouse",
+	"version": "${version}",
+	"name": "Brewhouse",
+	"description": "Irish brewing with vanilla tools: stout and poitín from the brewing stand, whiskey aged in barrels.",
+	"authors": [
+		"Semyon"
+	],
+	"license": "MIT",
+	"icon": "assets/brewhouse/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"ie.semyon.brewhouse.Brewhouse"
+		],
+		"client": [
+			"ie.semyon.brewhouse.client.BrewhouseClient"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.20.1",
+		"minecraft": "~26.3",
+		"java": ">=25",
+		"fabric-api": "*"
+	},
+	"mixins": [
+		"brewhouse.mixins.json"
+	]
+}

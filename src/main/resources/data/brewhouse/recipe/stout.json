@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:brewing",
+  "input": {
+    "item": "minecraft:potion",
+    "potion_contents": {
+      "potions": "brewhouse:wash"
+    }
+  },
+  "reagent": {
+    "item": "minecraft:cocoa_beans"
+  },
+  "output": {
+    "id": "minecraft:potion",
+    "components": {
+      "minecraft:potion_contents": {
+        "potion": "brewhouse:stout",
+        "custom_color": 2364428
+      }
+    }
+  }
+}

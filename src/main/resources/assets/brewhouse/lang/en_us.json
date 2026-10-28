@@ -1,0 +1,18 @@
+{
+  "item.minecraft.potion.effect.brewhouse.wash": "Bottle of Wash",
+  "item.minecraft.splash_potion.effect.brewhouse.wash": "Splash Bottle of Wash",
+  "item.minecraft.lingering_potion.effect.brewhouse.wash": "Lingering Bottle of Wash",
+  "item.minecraft.tipped_arrow.effect.brewhouse.wash": "Arrow of Wash",
+  "item.minecraft.potion.effect.brewhouse.stout": "Bottle of Stout",
+  "item.minecraft.splash_potion.effect.brewhouse.stout": "Splash Bottle of Stout",
+  "item.minecraft.lingering_potion.effect.brewhouse.stout": "Lingering Bottle of Stout",
+  "item.minecraft.tipped_arrow.effect.brewhouse.stout": "Arrow of Stout",
+  "item.minecraft.potion.effect.brewhouse.poitin": "Bottle of Poitín",
+  "item.minecraft.splash_potion.effect.brewhouse.poitin": "Splash Bottle of Poitín",
+  "item.minecraft.lingering_potion.effect.brewhouse.poitin": "Lingering Bottle of Poitín",
+  "item.minecraft.tipped_arrow.effect.brewhouse.poitin": "Arrow of Poitín",
+  "item.minecraft.potion.effect.brewhouse.whiskey": "Bottle of Whiskey",
+  "item.minecraft.splash_potion.effect.brewhouse.whiskey": "Splash Bottle of Whiskey",
+  "item.minecraft.lingering_potion.effect.brewhouse.whiskey": "Lingering Bottle of Whiskey",
+  "item.minecraft.tipped_arrow.effect.brewhouse.whiskey": "Arrow of Whiskey"
+}

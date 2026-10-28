@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:brewing",
+  "input": {
+    "item": "minecraft:potion",
+    "potion_contents": {
+      "potions": "brewhouse:wash"
+    }
+  },
+  "reagent": {
+    "item": "minecraft:copper_ingot"
+  },
+  "output": {
+    "id": "minecraft:potion",
+    "components": {
+      "minecraft:potion_contents": {
+        "potion": "brewhouse:poitin",
+        "custom_color": 14477806
+      }
+    }
+  }
+}
